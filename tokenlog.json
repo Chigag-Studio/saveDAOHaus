@@ -1,0 +1,8 @@
+{
+  "org": "SAVE DAO",
+  "repo": "pokemol-web",
+  "tokenAddress": "0x338D4527c9E7F7316c43581684Bc510b851F832a",
+  "labels": ["backlog"],
+  "votingMethod": "QUADRATIC",
+  "chainId": 100
+}
